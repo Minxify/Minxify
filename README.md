@@ -1,12 +1,12 @@
-<h1 align="left">Mrrwwwppp<br>Haiiiiii!!</h1>
+<h1 align="center">Mrrwwwppp<br>Haiiiiii!!</h1>
 
 ###
 
-<p align="left">My name is Minx and I'm a Student from Germany!</p>
+<p align="center">My name is Minx and I'm a Student from Germany!</p>
 
 ###
 
-<h2 align="left">About murrr</h2>
+<h2 align="center"">About murrr</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
