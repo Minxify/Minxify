@@ -50,4 +50,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minxify&radius=16&theme=gruvbox&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<div align="center">
+###ALL MY PROGRAMS ARE ONLY TESTED ON ARCH LINUX AND/OR ANDROID!###
+</div>
+
